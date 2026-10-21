@@ -1,0 +1,11 @@
+{
+  "name": "uxbridge-practice",
+  "version": "1.0.0",
+  "description": "Practice copy of the UX Bridge website. Edits here never touch the live site.",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
